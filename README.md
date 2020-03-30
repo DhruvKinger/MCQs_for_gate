@@ -1,2 +1,2 @@
 # MCQs for Gate
-DAA-set 38
+DAA-set 38,35
